@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/napochtakorn/Projects/StudentFirestore/StudentFirestore/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/napochtakorn/Projects/StudentFirestore/StudentFirestore/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/StudentFirestore.app
